@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://shokribardiya.github.io/Oblivions0.github.io/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
+<!--
+  This file lists only routes that currently exist. As each new page in
+  the information architecture (products/, research/papers/, engineering/notes/,
+  releases/archive/, etc.) is published, add a <url> entry here — see
+  README.md, "Growing the sitemap".
+-->
