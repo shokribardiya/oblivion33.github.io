@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+Sitemap: https://shokribardiya.github.io/Oblivions0.github.io/sitemap.xml
