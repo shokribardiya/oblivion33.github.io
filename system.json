@@ -1,0 +1,41 @@
+[
+  {
+    "id": "orbital-lm-aig",
+    "slug": "orbital",
+    "name": "ORBITAL LM AIG",
+    "category": "AI / Model Intelligence",
+    "status": "active-development",
+    "statusLabel": "ACTIVE DEVELOPMENT",
+    "version": "v2.1",
+    "description": "A model intelligence platform for running, evaluating and instrumenting local language models without an external runtime dependency.",
+    "repository": "https://github.com/shokribardiya",
+    "documentation": "developers/documentation/",
+    "tags": ["ai", "runtime", "gguf", "local-inference"]
+  },
+  {
+    "id": "sentinel",
+    "slug": "sentinel",
+    "name": "SENTINEL",
+    "category": "Security Intelligence",
+    "status": "active-development",
+    "statusLabel": "ACTIVE DEVELOPMENT",
+    "version": "v0.9",
+    "description": "A security intelligence platform for structured threat data, anomaly surfacing, and operational alerting across connected systems.",
+    "repository": "https://github.com/shokribardiya",
+    "documentation": "developers/documentation/",
+    "tags": ["security", "telemetry", "alerting"]
+  },
+  {
+    "id": "oblivion-graph",
+    "slug": "graph",
+    "name": "OBLIVION GRAPH",
+    "category": "Graph Intelligence Infrastructure",
+    "status": "research",
+    "statusLabel": "RESEARCH / DEVELOPMENT",
+    "version": "prototype",
+    "description": "Graph infrastructure for modeling relationships between systems, research, releases and documents as a queryable object graph.",
+    "repository": "https://github.com/shokribardiya",
+    "documentation": "developers/documentation/",
+    "tags": ["graph", "ontology", "infrastructure"]
+  }
+]
